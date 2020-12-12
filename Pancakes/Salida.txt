@@ -1,0 +1,5 @@
+Para n = 5, Pn = 5
+Para n = 6, Pn = 7
+Para n = 7, Pn = 8
+Para n = 8, Pn = 9
+Para n = 9, Pn = 10
